@@ -1,18 +1,18 @@
 {
-  "name": "taste-skill",
-  "description": "Taste skill library for Claude Code — frontend design, image-to-code, and aesthetic skills",
+  "name": "good-taste-skill",
+  "description": "Good Tast Skill library for Claude Code - premium frontend design with Chinese aesthetics, image-to-code, and aesthetic skills",
   "owner": {
-    "name": "leonxlnx",
+    "name": "cljhadream",
     "email": ""
   },
   "plugins": [
     {
-      "name": "taste-skill",
-      "description": "Frontend design taste skills including brutalist, minimalist, soft, redesign, stitch, and more",
+      "name": "good-tast-skill",
+      "description": "Good Tast Skill - premium frontend design taste skills with Chinese aesthetics",
       "version": "1.0.0",
       "source": "./",
       "author": {
-        "name": "leonxlnx",
+        "name": "Gutast AI",
         "email": ""
       }
     }
