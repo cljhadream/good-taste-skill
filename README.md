@@ -206,6 +206,10 @@ If Taste Skill helps you, consider sponsoring:
 
 <table align="center">
   <tr>
+    <td align="center" width="104"><a href="https://www.gutast.com/?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill"><img src="https://www.gutast.com/UI/logo/300_300.webp" alt="Gutast AI" width="52" height="52" /></a></td>
+    <td><sub><a href="https://www.gutast.com/?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill"><strong>Gutast AI</strong></a> · official-channel recharge for <a href="https://www.gutast.com/claude-code?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill">Claude Pro / Claude Code</a> and <a href="https://www.gutast.com/chatgpt-plus?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill">ChatGPT Plus</a> — keep your own account logged in, no password required, official receipts and invoices included. Maintained by the Goodtast UI skill team.</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="104"><a href="https://www.kimi.com"><img src="assets/sponsors/kimi-icon.png" alt="Kimi" width="52" height="52" /></a></td>
     <td><a href="https://www.kimi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://kimi-file.moonshot.cn/prod-chat-kimi/kfs/4/1/2026-06-05/1d8h69mt3v89kkekg24gg" /><img alt="Kimi Open Source Friends" src="https://kimi-file.moonshot.cn/prod-chat-kimi/kfs/4/1/2026-06-05/1d8h69fudcmosb3pipls0" height="42" /></picture></a><br /><sub><a href="https://platform.kimi.ai?track_id=track-20f0d64bcaba419bb425a3e8c306f65d&aff=taste-skill"><strong>Get a Kimi API key</strong></a>: taste-skill users get 10% bonus API credits on their first purchase.</sub></td>
   </tr>
