@@ -207,7 +207,7 @@ If Taste Skill helps you, consider sponsoring:
 <table align="center">
   <tr>
     <td align="center" width="104"><a href="https://www.gutast.com/?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill"><img src="https://www.gutast.com/UI/logo/300_300.webp" alt="Gutast AI" width="52" height="52" /></a></td>
-    <td><sub><a href="https://www.gutast.com/?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill"><strong>Gutast AI</strong></a> · official-channel recharge for <a href="https://www.gutast.com/claude-code?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill">Claude Pro / Claude Code</a> and <a href="https://www.gutast.com/chatgpt-plus?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill">ChatGPT Plus</a> — keep your own account logged in, no password required, official receipts and invoices included. Maintained by the Goodtast UI skill team.</sub></td>
+    <td><sub><a href="https://www.gutast.com/?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill"><strong>Gutast AI</strong></a> · <a href="https://www.gutast.com/claude-code?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill">Claude Code direct-connect plans</a> (official client, Organization ID only) and <a href="https://www.gutast.com/chatgpt-plus?utm_source=github&amp;utm_medium=social&amp;utm_campaign=taste_skill">ChatGPT Plus / Codex official-channel recharge</a> — zero passwords, invoices included, active in minutes. Maintained by the Goodtast UI skill team.</sub></td>
   </tr>
   <tr>
     <td align="center" width="104"><a href="https://www.kimi.com"><img src="assets/sponsors/kimi-icon.png" alt="Kimi" width="52" height="52" /></a></td>
